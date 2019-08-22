@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>Util.Datas.SqlServer</AssemblyName>
+    <RootNamespace>Util.Datas.SqlServer</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>D:\Users\UtilCore\dll\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\01-Core\Util.Core.csproj" />
+    <ProjectReference Include="..\Util.Datas.Sql\02-Util.Datas.Sql.csproj" />
+    <ProjectReference Include="..\Util.Datas\01-Util.Datas.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Data.SqlClient">
+      <HintPath>C:\Users\Administrator\.nuget\packages\system.data.sqlclient\4.6.1\ref\netcoreapp2.1\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

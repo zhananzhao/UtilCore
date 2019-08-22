@@ -1,0 +1,12 @@
+D:\Users\UtilCore\Util.DI.Autofac\bin\Debug\netcoreapp2.1\Util.DI.Autofac.deps.json
+D:\Users\UtilCore\Util.DI.Autofac\bin\Debug\netcoreapp2.1\Util.DI.Autofac.dll
+D:\Users\UtilCore\Util.DI.Autofac\obj\Debug\netcoreapp2.1\Util.DI.Autofac.csprojAssemblyReference.cache
+D:\Users\UtilCore\Util.DI.Autofac\obj\Debug\netcoreapp2.1\Util.DI.Autofac.csproj.CoreCompileInputs.cache
+D:\Users\UtilCore\Util.DI.Autofac\obj\Debug\netcoreapp2.1\Util.DI.Autofac.AssemblyInfoInputs.cache
+D:\Users\UtilCore\Util.DI.Autofac\obj\Debug\netcoreapp2.1\Util.DI.Autofac.AssemblyInfo.cs
+D:\Users\UtilCore\Util.DI.Autofac\bin\Debug\netcoreapp2.1\Util.DI.Autofac.pdb
+D:\Users\UtilCore\Util.DI.Autofac\obj\Debug\netcoreapp2.1\Util.DI.Autofac.dll
+D:\Users\UtilCore\Util.DI.Autofac\obj\Debug\netcoreapp2.1\Util.DI.Autofac.pdb
+D:\Users\UtilCore\dll\netcoreapp2.1\Util.DI.Autofac.deps.json
+D:\Users\UtilCore\dll\netcoreapp2.1\Util.DI.Autofac.dll
+D:\Users\UtilCore\dll\netcoreapp2.1\Util.DI.Autofac.pdb

@@ -1,0 +1,17 @@
+D:\Users\UtilCore\Util.Datas\obj\Debug\netcoreapp2.1\01-Util.Datas.csprojAssemblyReference.cache
+D:\Users\UtilCore\Util.Datas\obj\Debug\netcoreapp2.1\01-Util.Datas.csproj.CoreCompileInputs.cache
+D:\Users\UtilCore\Util.Datas\obj\Debug\netcoreapp2.1\01-Util.Datas.AssemblyInfoInputs.cache
+D:\Users\UtilCore\Util.Datas\obj\Debug\netcoreapp2.1\01-Util.Datas.AssemblyInfo.cs
+D:\Users\UtilCore\Util.Datas\bin\Debug\netcoreapp2.1\Util.Datas.deps.json
+D:\Users\UtilCore\Util.Datas\bin\Debug\netcoreapp2.1\Util.Datas.dll
+D:\Users\UtilCore\Util.Datas\bin\Debug\netcoreapp2.1\Util.Datas.pdb
+D:\Users\UtilCore\Util.Datas\bin\Debug\netcoreapp2.1\Util.Core.dll
+D:\Users\UtilCore\Util.Datas\bin\Debug\netcoreapp2.1\Util.Domains.dll
+D:\Users\UtilCore\Util.Datas\bin\Debug\netcoreapp2.1\Util.Domains.pdb
+D:\Users\UtilCore\Util.Datas\bin\Debug\netcoreapp2.1\Util.Core.pdb
+D:\Users\UtilCore\Util.Datas\obj\Debug\netcoreapp2.1\01-Util.Datas.csproj.CopyComplete
+D:\Users\UtilCore\Util.Datas\obj\Debug\netcoreapp2.1\Util.Datas.dll
+D:\Users\UtilCore\Util.Datas\obj\Debug\netcoreapp2.1\Util.Datas.pdb
+D:\Users\UtilCore\dll\netcoreapp2.1\Util.Datas.deps.json
+D:\Users\UtilCore\dll\netcoreapp2.1\Util.Datas.dll
+D:\Users\UtilCore\dll\netcoreapp2.1\Util.Datas.pdb

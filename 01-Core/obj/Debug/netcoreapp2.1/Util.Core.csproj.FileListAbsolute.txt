@@ -1,0 +1,15 @@
+D:\Users\UtilCore\01-Core\obj\Debug\netcoreapp2.1\Util.R.resources
+D:\Users\UtilCore\01-Core\obj\Debug\netcoreapp2.1\Util.Validations.DataAnnotations.ValidatorResources.resources
+D:\Users\UtilCore\01-Core\obj\Debug\netcoreapp2.1\Util.Core.csproj.GenerateResource.cache
+D:\Users\UtilCore\01-Core\obj\Debug\netcoreapp2.1\Util.Core.csproj.CoreCompileInputs.cache
+D:\Users\UtilCore\01-Core\bin\Debug\netcoreapp2.1\Util.Core.deps.json
+D:\Users\UtilCore\01-Core\bin\Debug\netcoreapp2.1\Util.Core.dll
+D:\Users\UtilCore\01-Core\bin\Debug\netcoreapp2.1\Util.Core.pdb
+D:\Users\UtilCore\01-Core\obj\Debug\netcoreapp2.1\Util.Core.dll
+D:\Users\UtilCore\01-Core\obj\Debug\netcoreapp2.1\Util.Core.pdb
+D:\Users\UtilCore\dll\netcoreapp2.1\Util.Core.deps.json
+D:\Users\UtilCore\dll\netcoreapp2.1\Util.Core.dll
+D:\Users\UtilCore\dll\netcoreapp2.1\Util.Core.pdb
+D:\Users\UtilCore\01-Core\obj\Debug\netcoreapp2.1\Util.Core.AssemblyInfoInputs.cache
+D:\Users\UtilCore\01-Core\obj\Debug\netcoreapp2.1\Util.Core.AssemblyInfo.cs
+D:\Users\UtilCore\01-Core\obj\Debug\netcoreapp2.1\Util.Core.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Users\UtilCore\Util.Datas.MySql\bin\Debug\netcoreapp2.1\Util.Datas.MySql.deps.json
+D:\Users\UtilCore\Util.Datas.MySql\bin\Debug\netcoreapp2.1\Util.Datas.MySql.dll
+D:\Users\UtilCore\Util.Datas.MySql\bin\Debug\netcoreapp2.1\Util.Datas.MySql.pdb
+D:\Users\UtilCore\Util.Datas.MySql\obj\Debug\netcoreapp2.1\05-Util.Datas.MySql.csprojAssemblyReference.cache
+D:\Users\UtilCore\Util.Datas.MySql\obj\Debug\netcoreapp2.1\05-Util.Datas.MySql.csproj.CoreCompileInputs.cache
+D:\Users\UtilCore\Util.Datas.MySql\obj\Debug\netcoreapp2.1\05-Util.Datas.MySql.AssemblyInfoInputs.cache
+D:\Users\UtilCore\Util.Datas.MySql\obj\Debug\netcoreapp2.1\05-Util.Datas.MySql.AssemblyInfo.cs
+D:\Users\UtilCore\Util.Datas.MySql\obj\Debug\netcoreapp2.1\Util.Datas.MySql.dll
+D:\Users\UtilCore\Util.Datas.MySql\obj\Debug\netcoreapp2.1\Util.Datas.MySql.pdb
